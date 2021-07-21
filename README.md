@@ -1,5 +1,3 @@
-# django-portfolio-website
-
 GETTING STARTED
 
 1 - Install requirements
